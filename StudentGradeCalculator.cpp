@@ -11,7 +11,11 @@ int main()
 {
     string studentName = "Ahmad";
     int grade1 = 85;
-    int grade2 = 90;
+    int g    return (grade1 + grade2 + grade3) / 3.0;
+    return (grade1 + grade2 + grade3) / 3.0;
+    return (grade1 + grade2 + grade3) / 3.0;
+    return (grade1 + grade2 + grade3) / 3.0;
+rade2 = 90;
     int grade3 = 80;
 
     double average = calculateAverage(grade1, grade2, grade3);
