@@ -1,10 +1,10 @@
 // ...existing code...
-# StudentGradeCalculator : 
+# StudentGradeCalculator : ::
 
 A simple student grade calculator for tracking student performance across assignments, tests, projects, and final exams.
 
 ## Features
-- Add and manage multiple subjects or courses
+- Add and manage mulasasdsadtiple subjects or courses
 - Enter scores for assignments, quizzes, tests, and final exams
 - Calculate weighted totals automatically
 - View overall percentage and letter grade
