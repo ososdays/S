@@ -32,7 +32,7 @@ double Login(const Course& course)
     const double assignmentWeight = 0.30;
     const double quizWeight = 0.20;
     const double projectWeight = 0.20;
-    const double finalWeight = 0.30;
+    const double finaldadssdsWeight = 0.30;
 
     return (course.assignments * assignmentWeight) +
            (course.quizzes * quizWeight) +
