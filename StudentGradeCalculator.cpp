@@ -26,6 +26,18 @@ double calculateWeightedAverage(const Course& course)
            (course.finalExam * finalWeight);
 }
 
+double Login(const Course& course)
+{
+    const double assignmentWeight = 0.30;
+    const double quizWeight = 0.20;
+    const double projectWeight = 0.20;
+    const double finalWeight = 0.30;
+
+    return (course.assignments * assignmentWeight) +
+           (course.quizzes * quizWeight) +
+           (course.projects * projectWeight) +
+           (course.finalExam * finalWeight);
+}
 char getLetterGrade(double percentage)
 {
     if (percentage >= 90) return 'A';
