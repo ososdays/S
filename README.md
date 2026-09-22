@@ -1,5 +1,5 @@
 // ...existing code...
-# StudentGradeCalculator
+# StudentGradeCalculator : 
 
 A simple student grade calculator for tracking student performance across assignments, tests, projects, and final exams.
 
